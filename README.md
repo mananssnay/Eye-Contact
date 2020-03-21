@@ -66,7 +66,7 @@ int main() {
 }
 ```
 
-## MDT112 PROJECT : Lazy fan
+## MDT112 PROJECT : Eye-Contact
 
 Mamber
 
@@ -97,7 +97,3 @@ Markdown | Less | Pretty
 > This line is part of the same quote.
 
 Quote break.
-
-test
-
-pull push test
