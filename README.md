@@ -70,18 +70,11 @@ int main() {
 
 Mamber
 
-| Name                | Nickname       | Student namber  | Github Profile Link  |
-| ------------------- |:--------------:| ---------------:| --------------------:|
-| Orawan onsang       | Mongkorn       | 62120501011     | MK-max               |
-| Mananchaya srisai   | Nay            | 62120501064     | Mananssnay           |
-| Sawarin Wannachawee | Poohkatoy      | 621206501079    | Poohkatoy            |
-
-
-| Name                | Nickname       | Student namber  |
-| ------------------- |:--------------:| ---------------:|
-| Orawan onsang       | Mongkorn       | 62120501011     |
-| Mananchaya srisai   | Nay            | 62120501064     |
-| Sawarin Wannachawee | Poohkatoy      | 621206501079    |
+| Name                | Nickname       | Student namber  | Github Profile Link            |
+| ------------------- |:--------------:| ---------------:| ------------------------------:|
+| Orawan onsang       | Mongkorn       | 62120501011     | https://github.com/MK-max      |
+| Mananchaya srisai   | Nay            | 62120501064     | https://github.com/mananssnay  |
+| Sawarin Wannachawee | Poohkatoy      | 621206501079    | https://github.com/poohkatoy   |
 
 
 Detail project
