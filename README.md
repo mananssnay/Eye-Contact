@@ -76,6 +76,14 @@ Mamber
 | Mananchaya srisai   | Nay            | 62120501064     | Mananssnay           |
 | Sawarin Wannachawee | Poohkatoy      | 621206501079    | Poohkatoy            |
 
+
+| Name                | Nickname       | Student namber  |
+| ------------------- |:--------------:| ---------------:|
+| Orawan onsang       | Mongkorn       | 62120501011     |
+| Mananchaya srisai   | Nay            | 62120501064     |
+| Sawarin Wannachawee | Poohkatoy      | 621206501079    |
+
+
 Detail project
 
 เป็นเครื่องตรวจวัดสายตา โดยมีสเนลล์เลนชาร์ต(Snellen's chart) เป็นต้นแบบ เนื่องจากรูปแบบของชาร์ตนั้นมีการจัดเรียงเป็นรูปแบบเดิมๆ 
