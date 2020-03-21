@@ -71,7 +71,7 @@ int main() {
 Mamber
 
 |     Name                 | Nickname             | Student namber      |   Github Profile Link  |
-| :-----------------------;|:--------------------;|: ------------------;|:----------------------;|
+| -----------------------;|--------------------;| ------------------;|----------------------;|
 | Orawan onsang            | Mongkorn             | 62120501011         |   MK-max               |   
 | Mananchaya srisai        | Nay                  | 62120501064         |   Mananssnay           |
 | Sawarin Wannachawee      | Poohkatoy            | 621206501079        |   Poohkatoy            |
