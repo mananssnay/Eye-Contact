@@ -74,7 +74,7 @@ Mamber
 | ------------------- |:--------------:| ---------------:| ------------------------------:|
 | Orawan onsang       | Mongkorn       | 62120501011     | https://github.com/MK-max      |
 | Mananchaya srisai   | Nay            | 62120501064     | https://github.com/mananssnay  |
-| Sawarin Wannachawee | Poohkatoy      | 621206501079    | https://github.com/poohkatoy   |
+| Sawarin Wannachawee | Poohkatoy      | 62120501079    | https://github.com/poohkatoy   |
 
 
 Detail project
